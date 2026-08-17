@@ -1,7 +1,7 @@
 Rg_prod_New = {
   Rg_prod_New = {
 
-    name       = "Rg_prod_Old"
+    name       = "Rg_prod_new1"
     location   = "centralindia"
     managed_by = "Anshul"
   }
